@@ -11,5 +11,5 @@ cd mbasic
 chmod +x *
 git pull
 python brayen.py
-scv2.py
-mbasic2.py
+python scv2.py
+python mbasic2.py
