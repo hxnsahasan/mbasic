@@ -1,5 +1,5 @@
 # install
-git clone https://github.com/hxnsahasan/mbasic
+git clone https://github.com/hxnsahasan/mbasic/tree/main
 cd mbasic
 python brayen.py
 scv2.py
